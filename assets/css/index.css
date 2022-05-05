@@ -1,0 +1,280 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.header1{
+  height: 150px;
+  width: 1000px;
+  margin: auto;
+  padding:20px;
+  color: rgb(90, 86, 86);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+.header1 span{
+  font-weight: 400;
+  color: rgb(235, 78, 151)
+  
+}
+.sch{
+  font-size: 25px;
+  height: 150px;
+  width: 50%;
+  float: left;
+  
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  justify-items: center;
+  justify-content: space-between;
+}
+.list{
+  height: 150px;
+  width: 50%;
+  float: right;
+}
+button{
+
+  background-color: #e03979;
+    border-radius: 8px;
+    border-style: none;
+    box-sizing: border-box;
+    color: #fcf9f9;
+    cursor: pointer;
+    display: inline-block;
+    padding: 10px 15px;
+}
+.header2{
+  height: 400px;
+  width: 900px;
+  margin: auto;
+  color: #5f4f57;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+.header2 h1{
+  font-size: 30px;
+  color: #d32568;
+}
+#parag{
+  height: 400px;
+  width: 50%;
+  float: left;
+
+}
+#img1{
+  
+  height: 400px;
+  width: 50%;
+  float: right;
+
+}
+#img1 img{
+  height:350px;
+  width: 350px;
+}
+.btn{
+    background: rgb(255, 254, 254);
+    backface-visibility: hidden;
+    border-radius: 8px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #f565ad;
+    box-sizing: border-box;
+    color: #f565ad;
+    cursor: pointer;
+    font-size: 15px;
+    line-height: 10px;
+    padding: 10px 20px;
+    
+}
+
+.header3{
+  height: 350px;
+  width: 900px;
+  margin: auto;
+  color: #5f4f57;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+.learners{
+  height: 350px;
+  width: 50%;
+  float: right;
+
+}
+.img2{
+height: 350px;
+width: 50%;
+float: left;
+}
+.img2 img{
+  height:290px;
+  width: 300px;
+}
+.header6 img{
+  height: 170px;
+  width: 170px;
+}
+.header6{
+  height: 600px;
+  width: 1000px;
+  margin: auto;
+  color: #5f4f57;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-flow: wrap
+  
+}
+#rose{
+  height: 500px;
+  width: 20%;
+  
+}
+#albert{
+  height: 500px;
+  width: 20%;
+  
+}
+#katana{
+  height: 500px;
+  width: 20%;
+  
+}
+#karimi{
+  height: 500px;
+  width: 20%;
+  
+}
+.header4{
+  height: 400px;
+  width: 900px;
+  margin: auto;
+  color: #5f4f57;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+.meet{
+  height: 400px;
+  width: 50%;
+  float: left;
+
+}
+.board{
+  height: 400px;
+  width: 50%;
+  float: right;
+}
+
+
+.header5{
+  height: 400px;
+  width: 900px;
+  margin: auto;
+  color: #5f4f57;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+.grad{
+  height: 400px;
+  width: 50%;
+  float: left;
+
+}
+.party{
+  height: 400px;
+  width: 50%;
+  float: right;
+}
+.header4 img{
+  height:290px;
+  width: 300px;
+}
+.header5 img{
+  height:290px;
+  width: 300px;
+}
+.header7{
+  height: 400px;
+  width: 900px;
+  margin: auto;
+  color: #5f4f57;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+.bike{
+  height: 400px;
+  width: 50%;
+  float: left;
+}
+.cool{
+  height: 400px;
+  width: 50%;
+  float: right;
+}
+.header7 img{
+  height:250px;
+  width: 500px;
+}
+.header8{
+  height: 150px;
+  width: 900px;
+  margin: auto;
+  color: #5f4f57;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+.header9{
+  height: 80px;
+  width: 100%;
+  margin: auto;
+  color: #5f4f57;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: aliceblue;
+  text-align: center;
+  padding-top: 10px;
+  
+
+}
+.header8 a{
+  color: #e03979;
+
+}
+.header8 h4{
+color: #e03979;
+font-size: 25px;
+font-weight: lighter;
+}
+.header7 h2{
+  color: #e03979;
+  font-size: 30px;
+  font-weight: lighter;
+}
+.tittle span{
+  font-size: 20px;
+  background-color: darkgrey;
+
+}
+.tittle{
+  height: 80px;
+  width: 100%;
+  margin: auto;
+  color: #5f4f57;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding-top: 10px;
+  padding-left: 180px;
+}
+.tittle p{
+  font-size: 12px;
+}
+.tittle strong{
+  font-size: 20px;
+}
